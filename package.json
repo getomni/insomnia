@@ -1,0 +1,11 @@
+{
+	"name": "theme-omni",
+	"version": "1.0.0",
+	"description": "Official Omni Theme. A dark theme for many editors, shells, and more.",
+	"license": "MIT",
+	"main": "index.js",
+	"insomnia": {
+		"name": "theme-omni",
+		"description": "Official Omni Theme. A dark theme for many editors, shells, and more."
+	}
+}
