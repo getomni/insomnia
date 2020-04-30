@@ -6,34 +6,36 @@
 
 ## [Install](./INSTALL.md)
 
-
-#### Install using Git
+#### Download using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:<br>
 
 ```
+// Using https
 git clone https://github.com/Rocketseat/insomnia-omni.git
+
+// Using ssh
+git clone git@github.com:Rocketseat/insomnia-omni.git
 ```
 
-#### Install manually
+#### Download manually
 
-Download using the [GitHub .zip download](https://github.com/Rocketseat/insomnia-omni/archive/master.zip) option and unzip them.
+Download the theme by using the [GitHub .zip download](https://github.com/Rocketseat/insomnia-omni/archive/master.zip) option. After downloading it you must unzip the file and you'll have the theme folder.
 
 ### Activating theme
 
-- Copy insomnia folder.
-- In Insomnia, got to *Preferences* in *Application* and *Plugins* click on *Show plugins folder*.
-- Inside the plugin folder paste insomnia folder.
-- Go back to *Insomnia Preferences*, click in *Themes* and select **Omni** to apply the theme.
-
+- Copy the downloaded theme folder, usually named `insomnia-omni`.
+- In Insomnia, got to _Preferences_ in the _Application_ menu, then go to _Plugins_ and click on the _Show plugins folder_ button.
+- Inside the plugin folder paste the theme folder you just copied.
+- Restart your insomnia, go back to _Insomnia Preferences_, click on _Themes_ and select **Omni** to apply the theme.
 
 ## Team
 
 This theme is maintained by the Rockeseat.
 
-[![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) |
---- |  
-Mayk Brito |
+| [![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) |
+| -------------------------------------------------------------------------------------------------------- |
+| Mayk Brito                                                                                               |
 
 ## License
 
