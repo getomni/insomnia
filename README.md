@@ -25,8 +25,8 @@ Download the theme by using the [GitHub .zip download](https://github.com/Rocket
 ### Activating theme
 
 - Copy the downloaded theme folder, usually named `insomnia-omni`.
-- In Insomnia, got to _Preferences_ in the _Application_ menu, go to _Plugins_ and click on the _Show plugins folder_ button.
-- Inside the plugin folder paste the theme folder you copied.
+- In Insomnia, got to _Preferences_ in the _Application_ menu, then go to _Plugins_ and click on the _Show plugins folder_ button.
+- Inside the plugin folder paste the theme folder you just copied.
 - Restart your insomnia, go back to _Insomnia Preferences_, click on _Themes_ and select **Omni** to apply the theme.
 
 ## Team
