@@ -1,5 +1,9 @@
 ### [Insomnia](http://insomnia.rest)
 
+#### Install from Insomnia
+
+- Install the `insomnia-plugin-omni-theme` plugin from **Preferences > Plugins**.
+
 #### Install using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:<br>
