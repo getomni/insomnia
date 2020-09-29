@@ -1,5 +1,5 @@
 {
-  "name": "@birobirobiro/insomnia-plugin-omni-theme",
+  "name": "insomnia-plugin-omni-theme",
   "description": "Official Omni Theme. A dark theme for many editors, shells, and more.",
   "version": "1.0.0",
   "insomnia": {
@@ -20,7 +20,10 @@
     "color-theme",
     "omni"
   ],
-  "author": "Rocketseat (https://github.com/getomni/insomnia-omni)",
+  "author": {
+    "name": "João Inácio",
+    "email": "birobirobiro.dev@gmail.com"
+  },
   "scripts": {
     "publish": "npm publish"
   },
