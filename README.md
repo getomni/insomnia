@@ -33,8 +33,9 @@ Download the theme by using the [GitHub .zip download](https://github.com/Rocket
 
 This theme is maintained by the Rockeseat.
 
-| [![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) |
-| -------------------------------------------------------------------------------------------------------- |
+| [![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) | [![João Inácio](https://avatars2.githubusercontent.com/u/22185823?v=4&s=70)](https://github.com/birobirobiro)
+| 
+-------------------------------------------------------------------------------------------------------- |
 | Mayk Brito                                                                                               |
 
 ## License
