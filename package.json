@@ -1,11 +1,37 @@
 {
-	"name": "theme-omni",
-	"version": "1.0.0",
-	"description": "Official Omni Theme. A dark theme for many editors, shells, and more.",
-	"license": "MIT",
-	"main": "index.js",
-	"insomnia": {
-		"name": "theme-omni",
-		"description": "Official Omni Theme. A dark theme for many editors, shells, and more."
-	}
+  "name": "insomnia-plugin-omni-theme",
+  "description": "Official Omni Theme. A dark theme for many editors, shells, and more.",
+  "version": "1.0.0",
+  "insomnia": {
+    "name": "omni-theme",
+    "displayName": "Omni Theme",
+    "description": "A beautiful dark theme for Insomnia",
+    "images": {
+      "icon": "logo.png"
+    }
+  },
+  "main": "index.js",
+  "keywords": [
+    "theme",
+    "dark",
+    "insomnia",
+    "insomnia-theme",
+    "insomnia-plugin",
+    "color-theme",
+    "omni"
+  ],
+  "author": {
+    "name": "Rocketseat",
+    "url": "https://github.com/getomni/insomnia-omni"
+  },
+  "scripts": {
+    "publish": "npm publish"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/getomni/insomnia-omni.git"
+  },
+  "bugs": {
+    "url": "https://github.com/getomni/insomnia-omni/issues"
+  }
 }
