@@ -6,6 +6,10 @@
 
 ## [Install](./INSTALL.md)
 
+#### Install from Insomnia
+
+- Install the `insomnia-plugin-omni-theme` plugin from **Preferences > Plugins**.
+
 #### Download using Git
 
 If you are a git user, you can install the theme and keep up to date by cloning the repo:<br>
@@ -33,10 +37,9 @@ Download the theme by using the [GitHub .zip download](https://github.com/Rocket
 
 This theme is maintained by the Rockeseat.
 
-| [![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) | [![João Inácio](https://avatars2.githubusercontent.com/u/22185823?v=4&s=70)](https://github.com/birobirobiro)
-| 
--------------------------------------------------------------------------------------------------------- |
-| Mayk Brito                                                                                               |
+[![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=70)](https://github.com/maykbrito) | [![João Inácio](https://avatars2.githubusercontent.com/u/22185823?v=4&s=70)](https://github.com/birobirobiro)
+--- | ---
+[Mayk Brito](https://github.com/maykbrito) | [João Inácio](https://github.com/birobirobiro)
 
 ## License
 
