@@ -1,22 +1,43 @@
-# Omni for [Insomnia](http://insomnia.rest)
+<h1 align="center">
+  <br>
+  <img src="https://storage.googleapis.com/golden-wind/github/omni/omni.png" alt="Omni Logo" width="100">
+  <br>
+  Omni for <a href="https://insomnia.rest">Insomnia</a>
+  <br>
+</h1>
 
-> 🎨 Omni is everywhere [Insomnia](http://insomnia.rest)
+<p align="center">
+  <strong>Dark theme for <a href="https://insomnia.rest">Insomnia</a></strong>
+</p>
 
-![Screenshot](./screenshot.png)
+<p align="center">
+  <img src="https://img.shields.io/badge/PRs-welcome-%235FCC6F.svg" alt="PRs welcome!" />
+
+  <img alt="License" src="https://img.shields.io/badge/license-MIT-%235FCC6F">
+</p>
+
+<p align="center">
+  <a href="#install">Install</a> •
+  <a href="#team">Team</a> •
+  <a href="#license">License</a>
+</p>
+
+<p align="center">
+  <img alt="Omni screnshoot for Insomnia" src="./screenshot.png">
+</p>
 
 ## Install
 
-- Open **Preferences > Plugins**, search for `@getomni/insomnia` and click **Install Plugin**.
-- After that, go to **Themes** (also under preferences) and apply the **Omni** theme.
+All instructions can be found at [INSTALL.md](./INSTALL.md).
 
-## Maintainers
+## Team
 
-This theme is maintained by the Rockeseat team.
+This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/insomnia/graphs/contributors).
 
-[![Mayk Brito](https://avatars2.githubusercontent.com/u/6643122?v=4&s=100)](https://github.com/maykbrito) | [![João Inácio](https://avatars2.githubusercontent.com/u/22185823?v=4&s=100)](https://github.com/birobirobiro)
---- | ---
-[Mayk Brito](https://github.com/maykbrito) | [João Inácio](https://github.com/birobirobiro)
+| [![Mayk Brito](https://github.com/maykbrito.png?size=100)](https://github.com/maykbrito) | [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| [Mayk Brito](https://github.com/maykbrito)                                               | [João Inácio](https://github.com/birobirobiro)                                                  |
 
 ## License
 
-MIT License
+[MIT License](./LICENSE.md)
