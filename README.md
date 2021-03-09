@@ -34,9 +34,9 @@ All instructions can be found at [INSTALL.md](./INSTALL.md).
 
 This theme is maintained by the following person(s) and a bunch of [awesome contributors](https://github.com/getomni/insomnia/graphs/contributors).
 
-| [![Mayk Brito](https://github.com/maykbrito.png?size=100)](https://github.com/maykbrito) | [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) |
-| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| [Mayk Brito](https://github.com/maykbrito)                                               | [João Inácio](https://github.com/birobirobiro)                                                  |
+| [![Mayk Brito](https://github.com/maykbrito.png?size=100)](https://github.com/maykbrito) | [![João Inácio](https://github.com/birobirobiro.png?size=100)](https://github.com/birobirobiro) | [![João Pedro](https://github.com/jpedroschmitz.png?size=100)](https://github.com/jpedroschmitz) |
+| ---------------------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------ |
+| [Mayk Brito](https://github.com/maykbrito)                                               | [João Inácio](https://github.com/birobirobiro)                                                  | [João Pedro](https://github.com/jpedroschmitz)                                                   |
 
 ## License
 
