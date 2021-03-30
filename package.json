@@ -1,7 +1,7 @@
 {
-  "name": "@getomni/insomnia",
-  "description": "Official Omni Theme. A dark theme for many editors, shells, and more.",
-  "version": "1.1.0",
+  "name": "insomnia-plugin-theme-omni",
+  "description": "Official Omni Theme. A dark theme created by Rocketseat!",
+  "version": "1.0.0",
   "insomnia": {
     "name": "omni-theme",
     "displayName": "Omni Theme",
@@ -25,11 +25,11 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/getomni/insomnia-omni.git"
+    "url": "git+https://github.com/getomni/insomnia.git"
   },
   "bugs": {
-    "url": "https://github.com/getomni/insomnia-omni/issues"
+    "url": "https://github.com/getomni/insomnia/issues"
   },
-  "homepage": "https://github.com/getomni/insomnia-omni#readme",
+  "homepage": "https://github.com/getomni/insomnia#readme",
   "license": "MIT"
 }
