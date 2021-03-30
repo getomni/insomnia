@@ -1,7 +1,7 @@
 {
   "name": "@getomni/insomnia",
   "description": "Official Omni Theme. A dark theme for many editors, shells, and more.",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "insomnia": {
     "name": "omni-theme",
     "displayName": "Omni Theme",
